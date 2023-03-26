@@ -1,0 +1,40 @@
+
+body{
+    font-size: 16px;
+}
+/* Modifique a cor e tamanho da fonte da tag h1 */
+h1 { 
+    font-family: sans-serif, Helvetica;
+    font-size: 65px;
+    color: seagreen; 
+}
+/*Modifique a cor de fundo das listas não ordenada */
+ul {
+    background-color: whitesmoke;
+}
+
+/* Crie uma cor de fundo ao mesmo tempo para tag P e da UL */
+.list-color {
+    font-style: italic;
+    line-height: 60px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 2em;
+
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+/* Trocar cor de fundo dos itens da lista */
+#maca {
+    background-color: red;
+}
+#banana {
+    background-color: yellow;
+}
+#goiaba {
+    background-color: pink;
+}
