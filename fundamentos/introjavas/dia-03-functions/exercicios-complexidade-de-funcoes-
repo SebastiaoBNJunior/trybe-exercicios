@@ -1,0 +1,8 @@
+let clientesTrybeBank = ['Ada', 'John', 'Gus'];
+
+function verificaTipoDeParametro(cliente){
+    if (tipeof cliente !== 'string') {
+        return 'O parametro passado deve ser do tipo string!';
+    }
+}
+function 
